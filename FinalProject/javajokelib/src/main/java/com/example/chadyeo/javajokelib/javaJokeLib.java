@@ -1,4 +1,8 @@
 package com.example.chadyeo.javajokelib;
 
-public class javaJokeLib {
+public class JavaJokeLib {
+
+    public String getJavaJoke() {
+        return "TEST JOKE";
+    }
 }
